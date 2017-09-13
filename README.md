@@ -1,2 +1,2 @@
 # quickstartapp
-quick start app from SCP
+quick start app from SCP WEB IDE
